@@ -13,6 +13,7 @@ Edit existing contact details
 
 Delete unwanted contacts
 
+
 💡 Features
 ✅ CRUD Operations: Create, Read, Update, and Delete contacts.
 ✅ User-Friendly Menu: Easy-to-navigate main menu with clear options.
@@ -20,10 +21,12 @@ Delete unwanted contacts
 ✅ Persistent Storage (Optional): Option to save contacts in a file or database for future use.
 
 
+
 🛠️ Technologies Used
-Programming Language: Python / C / C++ / Java (mention the language you used)
+Programming Language:C 
 
 Data Storage: In-memory storage or file-based persistence (optional)
+
 
 
 
@@ -44,6 +47,8 @@ Edit
 gcc contact_manager.c -o contact_manager  
 ./contact_manager  
 Use the menu to add, search, edit, or delete contacts.
+
+
 
 
 
